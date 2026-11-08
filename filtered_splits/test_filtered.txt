@@ -69,7 +69,6 @@ country/country.00035.wav
 country/country.00036.wav
 country/country.00037.wav
 country/country.00038.wav
-country/country.00039.wav
 country/country.00040.wav
 country/country.00043.wav
 country/country.00044.wav
@@ -120,10 +119,8 @@ disco/disco.00096.wav
 disco/disco.00097.wav
 disco/disco.00099.wav
 hiphop/hiphop.00000.wav
-hiphop/hiphop.00026.wav
 hiphop/hiphop.00027.wav
 hiphop/hiphop.00030.wav
-hiphop/hiphop.00040.wav
 hiphop/hiphop.00043.wav
 hiphop/hiphop.00044.wav
 hiphop/hiphop.00045.wav
@@ -183,7 +180,6 @@ metal/metal.00025.wav
 metal/metal.00026.wav
 metal/metal.00027.wav
 metal/metal.00028.wav
-metal/metal.00029.wav
 metal/metal.00030.wav
 metal/metal.00031.wav
 metal/metal.00032.wav
@@ -240,7 +236,6 @@ reggae/reggae.00040.wav
 reggae/reggae.00046.wav
 reggae/reggae.00047.wav
 reggae/reggae.00048.wav
-reggae/reggae.00052.wav
 reggae/reggae.00053.wav
 reggae/reggae.00064.wav
 reggae/reggae.00065.wav
@@ -256,12 +251,9 @@ reggae/reggae.00087.wav
 reggae/reggae.00088.wav
 reggae/reggae.00089.wav
 reggae/reggae.00090.wav
-rock/rock.00010.wav
-rock/rock.00011.wav
 rock/rock.00012.wav
 rock/rock.00013.wav
 rock/rock.00014.wav
-rock/rock.00015.wav
 rock/rock.00027.wav
 rock/rock.00028.wav
 rock/rock.00029.wav
@@ -287,4 +279,3 @@ rock/rock.00086.wav
 rock/rock.00087.wav
 rock/rock.00088.wav
 rock/rock.00089.wav
-rock/rock.00090.wav
